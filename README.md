@@ -3,10 +3,6 @@
   <h1>Hi, I'm Nyoman Kusuma</h1>
 </div> 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="footer line" width="100%" />
-</div>
-
 <p align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;Information+Systems+Student" alt="Typing SVG" />
@@ -18,6 +14,10 @@
     <img src="https://komarev.com/ghpvc/?username=knyoman&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="knyoman's profile views" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="footer line" width="100%" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -31,18 +31,19 @@
 
 I specialize in building scalable web apps and designing intuitive digital experiences. Passionate about transforming complex problems into elegant solutions.
 
-### 🏆 Key Achievements
+### 🏆 Badge & Awards
+
 
 <p align="left" style="overflow-x: auto; white-space: nowrap;">
-  <img src="GitHub1.png" height="50" />
+  <img src="GitHub1.png" height="80" />
   &nbsp;
-  <img src="TheArcadeSpedrun.png" height="50" />
+  <img src="TheArcadeSpedrun.png" height="50" href="https://www.skills.google/public_profiles/f9feeb65-ccbf-48a2-91ee-27ec422b516c/badges/9673077"/>
   &nbsp;
-  <img src="TheArcadeSpedrun.png" height="50" />
+  <img src="TheArcadeSpedrun.png" height="80" />
   &nbsp;
-  <img src="TheArcadeSpedrun.png" height="50" />
+  <img src="TheArcadeSpedrun.png" height="80" />
   &nbsp;
-  <img src="TheArcadeSpedrun.png" height="50" />
+  <img src="TheArcadeSpedrun.png" height="80" />
 </p>
 
 <div align="center">
