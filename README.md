@@ -54,7 +54,7 @@ Passionate about building scalable web applications and creating intuitive digit
 </td>
 <td align="center" width="40%">
 
-<img src="https://github.com/user-attachments/assets/1287993c-d369-409b-b43a-22c9fd2853f6" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+<img src="Luffy.png" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
 
 </td>
   </tr>
