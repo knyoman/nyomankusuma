@@ -1,8 +1,7 @@
 <h1 align="center">Hey There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Nyoman Kusuma</h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=knyoman">
-    <img src="https://komarev.com/ghpvc/?username=knyoman&label=Profile%20views&color=00FFFF&style=flat-square" alt="knyoman's profile views" />
+  <a href="Luffy.png" alt="Profile views" />
   </a>
 </p>
 <table>
