@@ -1,82 +1,123 @@
-<h1 align="center">Hey There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Nyoman Kusuma</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"/>
+  <h1>Hi, I'm Nyoman Kusuma</h1>
+</div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;UI%2FUX+Designer+%26+Innovator;Information+Systems+Student" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=knyoman">
-    <img src="https://komarev.com/ghpvc/?username=knyoman&label=Profile%20views&color=00FFFF&style=flat-square" alt="knyoman's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=knyoman&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="knyoman's profile views" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <table>
   <tr>
     <td valign="top" width="60%">
 
+### 👨‍💻 About Me
+
 **Information Systems Undergraduate** from **South Sumatra, Indonesia** 🇮🇩
-*Full Stack Web Developer & UI/UX Designer*
 
-Passionate about building scalable web applications and creating intuitive digital experiences. An active innovator with a track record in national & international competitions.
+I specialize in building scalable web apps and designing intuitive digital experiences. Passionate about transforming complex problems into elegant solutions.
 
-> ### 🚀 What I Do?
+> **🏆 Key Achievements:**
+>
+> * **International Excellence Award (ASEAN)**
+> * **Top 10 Inovator Sumsel**
+> * **BNSP Certified Digital Marketer**
 
-* **Develop** full-stack web platforms using **Next.js, TypeScript, & Supabase** (e.g., *Smardetu*).
-* **Design** user-centric interfaces (UI/UX) for mobile & web apps (e.g., *Aduan Kito*).
-* **Innovate** solutions for social impact (Awardee of **ASEAN Youth Innovation** & **Inovator Sumsel**).
+---
 
-> ### 🛠️ Tech Stack
+### 🚀 What I Do?
 
-**Frontend:**
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+* 💻 **Develop:** Full-stack platforms using **Next.js, TypeScript, & Supabase** (e.g., *Smardetu*).
+* 🎨 **Design:** User-centric UI/UX for mobile & web apps (e.g., *Aduan Kito*).
+* 💡 **Innovate:** Creating tech solutions for social impact.
 
-**Backend & Cloud:**
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+---
 
-**Design & Tools:**
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+### 🛠️ Tech Stack & Tools
 
-> ### 📫 Connect with Me
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+**Backend & Cloud**
+<br>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+
+**Design**
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+
+---
+
+### 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:emailmu@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-🏆 *International Excellence Award (ASEAN) | Top 10 Inovator Sumsel | Certified BNSP Digital Marketer*
-
----
 
 </td>
 <td align="center" width="40%">
 
-<img src="Luffy.png" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+<br>
+<img src="Luffy.png" width="90%" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);" alt="Nyoman Kusuma Profile"/>
+<br><br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=knyoman&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+</a>
 
 </td>
   </tr>
 </table>
-<h2 align="center">📊 GitHub Stats & Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knyoman&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="knyoman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knyoman&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" width="48%" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knyoman&theme=radical&radius=10" alt="knyoman's Activity Graph" width="100%" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%" />
-</picture>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knyoman&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knyoman&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knyoman&theme=radical&radius=10&bg_color=0d1117" width="95%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="95%" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="footer line" width="100%" />
 </div>
