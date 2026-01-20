@@ -9,11 +9,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=knyoman">
-    <img src="https://komarev.com/ghpvc/?username=knyoman&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="knyoman's profile views" />
-  </a>
-</p>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="footer line" width="100%" />
@@ -104,7 +100,12 @@ I specialize in building scalable web apps and designing intuitive digital exper
 
 </td>
 <td align="center" width="40%">
-
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=knyoman">
+    <img src="https://komarev.com/ghpvc/?username=knyoman&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="knyoman's profile views" />
+  </a>
+</p>
+  
 <img src="https://github.com/knyoman/nyomankusuma/blob/main/Luffy.jpg?raw=true" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
 
 </td>
