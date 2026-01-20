@@ -4,7 +4,7 @@
   <a href="https://komarev.com/ghpvc/?username=knyoman">
     <img src="https://komarev.com/ghpvc/?username=knyoman&label=Profile%20views&color=00FFFF&style=flat-square" alt="knyoman's profile views" />
   </a>
-</p>
+</p> 
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
