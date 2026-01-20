@@ -83,7 +83,7 @@ I specialize in building scalable web apps and designing intuitive digital exper
 </td>
 <td align="center" width="40%">
 
-<img src="https://github.com/knyoman/nyomankusuma/blob/main/Luffy.png?raw=true" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+<img src="https://github.com/knyoman/nyomankusuma/blob/main/Luffy.jpg?raw=true" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
 
 </td>
   </tr>
