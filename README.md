@@ -83,13 +83,7 @@ I specialize in building scalable web apps and designing intuitive digital exper
 </td>
 <td align="center" width="40%">
 
-<br>
-<img src="Luffy.png" width="90%" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);" alt="Nyoman Kusuma Profile"/>
-<br><br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=knyoman&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-</a>
+<img src="Luffy.png" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
 
 </td>
   </tr>
