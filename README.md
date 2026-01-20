@@ -3,7 +3,7 @@
   <h1>Hi, I'm Nyoman Kusuma</h1>
 </div>
 
-<p align="center">
+<p align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;UI%2FUX+Designer+%26+Innovator;Information+Systems+Student" alt="Typing SVG" />
   </a>
