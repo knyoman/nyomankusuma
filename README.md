@@ -3,6 +3,10 @@
   <h1>Hi, I'm Nyoman Kusuma</h1>
 </div> 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="footer line" width="100%" />
+</div>
+
 <p align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;Information+Systems+Student" alt="Typing SVG" />
@@ -30,17 +34,20 @@ I specialize in building scalable web apps and designing intuitive digital exper
 ### 🏆 Key Achievements
 
 <p align="left" style="overflow-x: auto; white-space: nowrap;">
-  <img src="GitHub1.png" height="40" />
+  <img src="GitHub1.png" height="50" />
   &nbsp;
-  <img src="TheArcadeSpedrun.png" height="40" />
+  <img src="TheArcadeSpedrun.png" height="50" />
   &nbsp;
-  <img src="TheArcadeSpedrun.png" height="40" />
+  <img src="TheArcadeSpedrun.png" height="50" />
   &nbsp;
-  <img src="TheArcadeSpedrun.png" height="40" />
+  <img src="TheArcadeSpedrun.png" height="50" />
   &nbsp;
-  <img src="TheArcadeSpedrun.png" height="40" />
+  <img src="TheArcadeSpedrun.png" height="50" />
 </p>
----
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ### 🚀 What I Do?
 
@@ -48,7 +55,10 @@ I specialize in building scalable web apps and designing intuitive digital exper
 * 🎨 **Design:** User-centric UI/UX for mobile & web apps (e.g., *Aduan Kito*).
 * 💡 **Innovate:** Creating tech solutions for social impact.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
 
 ### 🛠️ Tech Stack & Tools
 
@@ -71,7 +81,10 @@ I specialize in building scalable web apps and designing intuitive digital exper
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
 
 ### 📫 Connect with Me
 
@@ -109,16 +122,4 @@ I specialize in building scalable web apps and designing intuitive digital exper
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=knyoman&theme=radical&radius=10&bg_color=0d1117" width="95%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="95%" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="footer line" width="100%" />
 </div>
