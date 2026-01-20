@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;UI%2FUX+Designer+%26+Innovator;Information+Systems+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;Information+Systems+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,16 +23,23 @@
 
 ### 👨‍💻 About Me
 
-**Information Systems Undergraduate** from **South Sumatra, Indonesia** 🇮🇩
+**Information Systems Student** from **South Sumatra, Indonesia** 🇮🇩
 
 I specialize in building scalable web apps and designing intuitive digital experiences. Passionate about transforming complex problems into elegant solutions.
 
-> **🏆 Key Achievements:**
->
-> * **International Excellence Award (ASEAN)**
-> * **Top 10 Inovator Sumsel**
-> * **BNSP Certified Digital Marketer**
+### 🏆 Key Achievements
 
+<p align="left" style="overflow-x: auto; white-space: nowrap;">
+  <img src="GitHub1.png" height="40" />
+  &nbsp;
+  <img src="TheArcadeSpedrun.png" height="40" />
+  &nbsp;
+  <img src="TheArcadeSpedrun.png" height="40" />
+  &nbsp;
+  <img src="TheArcadeSpedrun.png" height="40" />
+  &nbsp;
+  <img src="TheArcadeSpedrun.png" height="40" />
+</p>
 ---
 
 ### 🚀 What I Do?
