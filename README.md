@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"/>
   <h1>Hi, I'm Nyoman Kusuma</h1>
-</div> 
+</div>
 
-<p align="center"> 
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;Information+Systems+Student" alt="Typing SVG" />
   </a>
@@ -17,13 +17,9 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="footer line" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<table>
+</div><table width="100%">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
 
 ### 👨‍💻 About Me
 
@@ -31,23 +27,30 @@
 
 I specialize in building scalable web apps and designing intuitive digital experiences. Passionate about transforming complex problems into elegant solutions.
 
-### 🏆 Badge & Awards
+### 🏆 Badges
 
+<div style="overflow-x: auto; white-space: nowrap; width: 100%;">
+  
+  <a href="https://learn.microsoft.com/api/achievements/share/id-id/NyomanKusuma-4289/CYVBAKF9?sharingId=A55A4E4C685DFAA6" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="GitHub1.png" height="100" alt="Microsoft Badge" />
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/f9feeb65-ccbf-48a2-91ee-27ec422b516c/badges/9673077" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="TheArcadeSpedrun.png" height="100" alt="Google Cloud Badge" />
+  </a>
+  
+  <a href="LINK_SERTIFIKAT_3" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="TheArcadeSpedrun.png" height="100" alt="Badge 3" />
+  </a>
+  
+  <a href="LINK_SERTIFIKAT_4" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="TheArcadeSpedrun.png" height="100" alt="Badge 4" />
+  </a>
+  
+  <a href="LINK_SERTIFIKAT_5" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="TheArcadeSpedrun.png" height="100" alt="Badge 5" />
+  </a>
 
-<p align="left" style="overflow-x: auto; white-space: nowrap;">
-  <img src="GitHub1.png" height="80" />
-  &nbsp;
-  <img src="TheArcadeSpedrun.png" height="50" href="https://www.skills.google/public_profiles/f9feeb65-ccbf-48a2-91ee-27ec422b516c/badges/9673077"/>
-  &nbsp;
-  <img src="TheArcadeSpedrun.png" height="80" />
-  &nbsp;
-  <img src="TheArcadeSpedrun.png" height="80" />
-  &nbsp;
-  <img src="TheArcadeSpedrun.png" height="80" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
 ### 🚀 What I Do?
@@ -59,7 +62,6 @@ I specialize in building scalable web apps and designing intuitive digital exper
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-
 
 ### 🛠️ Tech Stack & Tools
 
@@ -86,7 +88,6 @@ I specialize in building scalable web apps and designing intuitive digital exper
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-
 ### 📫 Connect with Me
 
 <p align="left">
@@ -105,6 +106,8 @@ I specialize in building scalable web apps and designing intuitive digital exper
 <td align="center" width="40%">
 
 <img src="https://github.com/knyoman/nyomankusuma/blob/main/Luffy.jpg?raw=true" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+
+</td>
 
 </td>
   </tr>
