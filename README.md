@@ -9,13 +9,11 @@
   </a>
 </p>
 
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="footer line" width="100%" />
 </div><table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
 
 ### 👨‍💻 About Me
 
@@ -29,28 +27,12 @@ I specialize in building scalable web apps and designing intuitive digital exper
 
 ### 🏆 Badges
 
-<div style="overflow-x: auto; white-space: nowrap; width: 100%;">
-  
-  <a href="https://learn.microsoft.com/api/achievements/share/id-id/NyomanKusuma-4289/CYVBAKF9?sharingId=A55A4E4C685DFAA6" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="GitHub1.png" height="80" alt="Microsoft Badge" />
-  </a>
-  
-  <a href="https://www.skills.google/public_profiles/f9feeb65-ccbf-48a2-91ee-27ec422b516c/badges/9673077" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="TheArcadeSpedrun.png" height="80" alt="Google Cloud Badge" />
-  </a>
-  
-  <a href="LINK_SERTIFIKAT_3" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="TheArcadeSpedrun.png" height="80" alt="Badge 3" />
-  </a>
-  
-  <a href="LINK_SERTIFIKAT_4" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="TheArcadeSpedrun.png" height="80" alt="Badge 4" />
-  </a>
-  
-  <a href="LINK_SERTIFIKAT_5" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="TheArcadeSpedrun.png" height="80" alt="Badge 5" />
-  </a>
-
+<div style="width: 100%; overflow-x: auto; white-space: nowrap;">
+  <a href="https://learn.microsoft.com/api/achievements/share/id-id/NyomanKusuma-4289/CYVBAKF9?sharingId=A55A4E4C685DFAA6" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="GitHub1.png" height="80" alt="Microsoft Badge" /></a>
+  <a href="https://www.skills.google/public_profiles/f9feeb65-ccbf-48a2-91ee-27ec422b516c/badges/9673077" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="TheArcadeSpedrun.png" height="80" alt="Google Cloud Badge" /></a>
+  <a href="LINK_SERTIFIKAT_3" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="TheArcadeSpedrun.png" height="80" alt="Badge 3" /></a>
+  <a href="LINK_SERTIFIKAT_4" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="TheArcadeSpedrun.png" height="80" alt="Badge 4" /></a>
+  <a href="LINK_SERTIFIKAT_5" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="TheArcadeSpedrun.png" height="80" alt="Badge 5" /></a>
 </div>
 
 <div align="center">
@@ -108,15 +90,17 @@ I specialize in building scalable web apps and designing intuitive digital exper
 
 </td>
 <td align="center" width="40%">
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=knyoman">
     <img src="https://komarev.com/ghpvc/?username=knyoman&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="knyoman's profile views" />
   </a>
 </p>
-  
-<img src="https://github.com/knyoman/nyomankusuma/blob/main/Luffy.jpg?raw=true" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+<br>
 
-</td>
+<a href="https://github.com/knyoman">
+  <img src="https://github.com/knyoman/nyomankusuma/blob/main/Luffy.jpg?raw=true" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+</a>
 
 </td>
   </tr>
