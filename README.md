@@ -29,13 +29,9 @@ I specialize in building scalable web apps and designing intuitive digital exper
 
 <div style="width: 100%; overflow-x: auto; white-space: nowrap;">
   <a href="https://learn.microsoft.com/api/achievements/share/id-id/NyomanKusuma-4289/CYVBAKF9?sharingId=A55A4E4C685DFAA6" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/GitHub1.png" height="80" alt="Microsoft Badge" /></a>
-
   <a href="https://www.skills.google/public_profiles/f9feeb65-ccbf-48a2-91ee-27ec422b516c/badges/9673077" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/TheArcadeSpedrun.png" height="80" alt="Google Cloud Badge" /></a>
-
   <a href="LINK_SERTIFIKAT_3" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/TheArcadeSpedrun.png" height="80" alt="Badge 3" /></a>
-
-  <a href="images/LINK_SERTIFIKAT_4" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="TheArcadeSpedrun.png" height="80" alt="Badge 4" /></a>
-  
+  <a href="images/LINK_SERTIFIKAT_4" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/TheArcadeSpedrun.png" height="80" alt="Badge 4" /></a>
   <a href="images/LINK_SERTIFIKAT_5" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/TheArcadeSpedrun.png" height="80" alt="Badge 5" /></a>
 </div>
 
@@ -103,7 +99,7 @@ I specialize in building scalable web apps and designing intuitive digital exper
 <br>
 
 <a href="https://github.com/knyoman">
-  <img src="https://github.com/knyoman/nyomankusuma/blob/main/Luffy.jpg?raw=true" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+  <img src="https://github.com/knyoman/nyomankusuma/blob/main/images/Luffy.jpg?raw=true" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
 </a>
 
 </td>
