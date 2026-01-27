@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"/>
   <h1>Hi, I'm Nyoman Kusuma</h1>
-</div>
+</div> 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
