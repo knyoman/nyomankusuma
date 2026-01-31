@@ -77,13 +77,13 @@ I specialize in building scalable web apps and designing intuitive digital exper
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/nyoman-kusuma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emailmu@example.com" target="_blank">
+  <a href="mailto:knyoman26@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/knyoman.26" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
